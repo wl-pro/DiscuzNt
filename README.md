@@ -1,4 +1,1 @@
-DiscuzNt
-========
-
-DiscuzNt
+Discuz! NT from inception to improve the efficiency of the product for the purpose, with the development of the enterprise edition Discuz! Module NT perfect, distributed cache, read and write separate, load balancing software support, Squid static front end, and Sphinx enterprise search engine, the Discuz! NT can be extremely fast and stable operation of busy the server environment, to break through enterprise access bottleneck, enhance corporate image.
